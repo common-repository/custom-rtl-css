@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom RTL CSS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-30 09:52+0000\n"
+"PO-Revision-Date: 2017-04-30 10:16+0000\n"
+"Last-Translator: Rami <tinycoder@live.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/admin.php:63
+msgid ""
+"Visit <a href=\"http://elbruz.co\" target=\"_blank\">Elbruz Technologies</a> "
+"for more tools and services."
+msgstr ""
+"قم بزيارة <a href=\"http://elbruz.co\" target=\"_blank\">Elbruz "
+"Technologies</a> لمزيد من الأدوات والخدمات."
+
+#. URI of the plugin
+msgid "https://github.com/ElbruzTechnologies/Custom-RTL-CSS"
+msgstr ""
+
+#. Author of the plugin
+msgid "Elbruz Technologies"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://elbruz.co"
+msgstr ""
+
+#: includes/admin.php:10
+msgid "Add RTL CSS"
+msgstr "أضف CSS مخصص"
+
+#. Name of the plugin
+#: includes/admin.php:37 includes/admin.php:37 includes/admin.php:57
+msgid "Custom RTL CSS"
+msgstr "RTL CSS مخصص"
+
+#: includes/admin.php:51
+msgid "/* Enter Your Custom CSS Here */"
+msgstr "/* أضف كود CSS الخاص بك هنا */"
+
+#: includes/admin.php:54
+msgid "Custom RTL CSS updated successfully."
+msgstr "تم تحديث كود RTL CSS بنجاح."
+
+#: includes/admin.php:62
+msgid ""
+"Custom RTL CSS allows you to add your own RTL styles or override the default "
+"CSS of a plugin or theme."
+msgstr ""
+"هذه الإضافة تسمح لك بإضافة كود RTL CSS الخاص بك لتجاوز كود الستايل الخاص "
+"بالقوالب والإضافات."
+
+#: includes/admin.php:64 includes/admin.php:74
+msgid "Update Custom RTL CSS"
+msgstr "تحديث RTL CSS"
+
+#. Description of the plugin
+msgid "Add inline custom CSS to Wordpress RTL themes."
+msgstr "إضافة أكواد CSS مخصصة لقوالب RTL."
